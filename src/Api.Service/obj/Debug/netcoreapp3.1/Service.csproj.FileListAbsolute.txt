@@ -1,0 +1,10 @@
+D:\Workspace\project-api-dotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Workspace\project-api-dotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Workspace\project-api-dotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Workspace\project-api-dotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
